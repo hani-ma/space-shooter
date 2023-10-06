@@ -1,2 +1,2 @@
 # space-shooter
-cg mini project
+CG mini project
